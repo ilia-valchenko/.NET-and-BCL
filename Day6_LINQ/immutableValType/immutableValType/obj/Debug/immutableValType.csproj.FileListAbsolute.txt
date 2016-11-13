@@ -1,0 +1,1 @@
+C:\Users\Ilia\Downloads\dotnetcore-master\dotnetcore-master\Day6_LINQ\immutableValType\immutableValType\bin\Debug\immutableValType.exe.config
